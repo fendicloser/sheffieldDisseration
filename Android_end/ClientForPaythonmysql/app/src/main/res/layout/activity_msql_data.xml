@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <include layout="@layout/activity_titles"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/mysqldata333"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@drawable/movent_bg"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="Date"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/mysqldata444"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@drawable/movent_bg"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="Temperature"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/mysqldata555"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@drawable/movent_bg"
+            android:gravity="center"
+            android:padding="7dp"
+            android:text="humidity"
+            android:textSize="14sp" />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/mysqldata"
+            android:layout_width="0dp"
+            android:layout_height="59dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/movent_bg"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="1111"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/mysqldata2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@drawable/movent_bg"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="1111"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/mysqldata3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@drawable/movent_bg"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="1111"
+            android:textSize="14sp" />
+
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/mysqldata4"
+                android:layout_width="0dp"
+                android:layout_height="59dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="1111"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/mysqldata5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/mysqldata6"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/mysqldata7"
+                android:layout_width="0dp"
+                android:layout_height="59dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="1111"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/mysqldata8"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/mysqldata9"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/mysqldata10"
+                android:layout_width="0dp"
+                android:layout_height="59dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="1111"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/mysqldata11"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/mysqldata12"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/mysqldata13"
+                android:layout_width="0dp"
+                android:layout_height="59dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="1111"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/mysqldata14"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/mysqldata15"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/mysqldata16"
+                android:layout_width="0dp"
+                android:layout_height="59dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="1111"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/mysqldata17"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/mysqldata18"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/mysqldata19"
+                android:layout_width="0dp"
+                android:layout_height="59dp"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="1111"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/mysqldata20"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+            <TextView
+                android:id="@+id/mysqldata21"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:background="@drawable/movent_bg"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="1111"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+
+
+
+</LinearLayout>
